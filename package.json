@@ -14,5 +14,11 @@
     "registry": "http://localhost:8081/repository/npm-internal/"
   },
   "author": "Justin Calleja <calleja.justin@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^2.8.0"
+  },
+  "peerDependencies": {
+    "eslint": "^2.8.0"
+  }
 }
