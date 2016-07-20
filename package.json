@@ -11,9 +11,6 @@
     "type": "git",
     "url": "justin@localhost:justin/eslint-config-base.git"
   },
-  "publishConfig": {
-    "registry": "http://localhost:8081/repository/npm-internal/"
-  },
   "author": "Justin Calleja <calleja.justin@gmail.com>",
   "license": "ISC",
   "dependencies": {
