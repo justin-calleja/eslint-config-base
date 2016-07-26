@@ -14,7 +14,7 @@ module.exports = {
     "one-var": [2, "never"],
     "no-multiple-empty-lines": [1, {"max": 2}],
     "no-undef": 2,
-    "no-unused-vars" : [1, { "varsIgnorePattern": "^_", "argsIgnorePattern": "^_" }],
+    "no-unused-vars" : [1, { "varsIgnorePattern": "^_.+", "argsIgnorePattern": "^_" }],
     "no-console": 0,
     "no-use-before-define": 2,
     "no-multi-spaces": 1,
