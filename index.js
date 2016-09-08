@@ -29,7 +29,7 @@ module.exports = {
     "arrow-spacing": 1,
     "space-before-function-paren": [1, "never"],
     "jsx-quotes": 1,
-    "quotes": [2, "single"],
+    "quotes": [2, "single", { "allowTemplateLiterals": true }],
     "semi": [2, "always"]
   }
 }
